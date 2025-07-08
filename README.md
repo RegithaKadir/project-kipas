@@ -65,9 +65,6 @@ Setelah upload berhasil:
 2. Masukkan password: **12345678**
 3. Buka browser dan akses **http://192.168.4.1**
 
-Tampilan web:  
-
-📷 *Screenshot halaman monitoring (tambahkan screenshot di sini)*
 
 ## 📦 Struktur File
 
